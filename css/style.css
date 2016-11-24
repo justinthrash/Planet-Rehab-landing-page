@@ -1,0 +1,19 @@
+.img-responsive {
+  margin: 0 auto;
+}
+
+body {
+  color: rgb(101, 66, 45);
+  background-color: rgb(226, 255, 190);
+}
+
+.btn {
+  background-color: rgb(139, 0, 0);
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.jumbotron {
+  background-color: rgb(226, 255, 190);
+  border:10px solid rgb(15,146,0);
+}
