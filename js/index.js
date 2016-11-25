@@ -1,5 +1,5 @@
 $(document).ready(function() {;
-  var moneyRaised = 250; //Call amount raised and store in this variable, needs to be a number
+  var moneyRaised = 2500; //Call amount raised and store in this variable, needs to be a number
   var moneyRaisedRounded = Math.round(moneyRaised);
   var percentRaised = (moneyRaised/250);
   var moneyRaisedText = '$' + moneyRaisedRounded;
