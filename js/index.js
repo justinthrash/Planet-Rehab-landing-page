@@ -1,5 +1,5 @@
 $(document).ready(function() {;
-  var moneyRaised = 2500; //Store amount raised here as a plain number, no $ or ,
+  var moneyRaised = 0; //Store amount raised here as a plain number, no $ or ,
   var moneyRaisedRounded = Math.round(moneyRaised);
   var percentRaised = (moneyRaised/250);
   var moneyRaisedText = '$' + moneyRaisedRounded;
