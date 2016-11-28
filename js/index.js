@@ -1,5 +1,6 @@
 $(document).ready(function() {;
   var moneyRaised = 0; //Store amount raised here as a plain number, no $ or ,
+                              //Type commit to update site
   var moneyRaisedRounded = Math.round(moneyRaised);
   var percentRaised = (moneyRaised/250);
   var moneyRaisedText = '$' + moneyRaisedRounded;
